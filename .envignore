@@ -1,0 +1,11 @@
+PORT=4000
+MONGODB_URI: "mongodb url"
+ACCESE_TOKEN_SECRET =wkdnnwndl
+ACCESE_TOKEN_EXPIRY =1D
+REFRESH_TOKEN_SECRET =wkdnnwndl
+REFRESH_TOKEN_EXPIRY =10D
+
+CLOUD_NAME='dqysa1wov',
+CLOUD_API_KEY= '399998631137798',
+CLOUD_API_SECERET='wQ0ZQg_-qx3D1QilUlaNsY9mQRY'
+# mongodb://username:password@hostname:port/database
