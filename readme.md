@@ -1,7 +1,8 @@
-Backend API for Video & Tweet Platform
-# A first-level heading
+#  Backend API for Video & Tweet Platform
+
 <br>
-** Features**<br>
+## A second-level heading 
+<br>
 1.User Management: User registration, profile updates, and authentication.<br>
 2.Video Management: Handle video details, views, and interactions.<br>
 3.Playlist Management: Create, update, and manage playlists.<br>
