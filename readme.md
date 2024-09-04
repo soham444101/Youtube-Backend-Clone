@@ -1,8 +1,8 @@
 #  Backend API for Video & Tweet Platform
 
-<br>
-## A second-level heading
-<br>
+
+## Feature
+
 1.User Management: User registration, profile updates, and authentication.<br>
 2.Video Management: Handle video details, views, and interactions.<br>
 3.Playlist Management: Create, update, and manage playlists.<br>
@@ -12,8 +12,9 @@
 7.Dashboard Management: Retrieve channel statistics.<br>
 8.Like System: Toggle likes on videos, comments, and tweets.<br>
 <br>
-<br>
-**Technologies**<br>
+
+##  Technologies
+
 1.Node.js: Backend runtime environment.<br>
 2.Express.js: Web framework for building APIs.<br>
 3.MongoDB: NoSQL database for storing data.<br>
