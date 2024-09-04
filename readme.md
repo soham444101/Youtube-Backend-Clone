@@ -1,7 +1,7 @@
 #  Backend API for Video & Tweet Platform
 
 <br>
-## A second-level heading 
+## A second-level heading
 <br>
 1.User Management: User registration, profile updates, and authentication.<br>
 2.Video Management: Handle video details, views, and interactions.<br>
